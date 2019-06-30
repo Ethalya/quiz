@@ -1,0 +1,64 @@
+C:\Users\Czytus\Desktop\Quiz\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Czytus\Desktop\Quiz\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\Czytus\Desktop\Quiz\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Czytus\Desktop\Quiz\Quiz\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+C:\Users\Czytus\Desktop\Quiz\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Users\Czytus\Desktop\Quiz\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\Czytus\Desktop\Quiz\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\Czytus\Desktop\Quiz\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Czytus\Desktop\Quiz\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\Czytus\Desktop\Quiz\Quiz\Quiz\obj\Debug\Quiz.pdb
+C:\Users\Czytus\Desktop\Quiz\Quiz\Quiz\obj\Debug\Quiz.startgame.resources
+C:\Users\Czytus\Desktop\Quiz\Quiz\Quiz\obj\Debug\Quiz.QUIZ.resources
+C:\Users\Czytus\Desktop\Quiz — kopia\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Czytus\Desktop\Quiz — kopia\Quiz\bin\Debug\Quiz.exe
+C:\Users\Czytus\Desktop\Quiz — kopia\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Czytus\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+C:\Users\Czytus\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Users\Czytus\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\Czytus\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.QUIZ.resources
+C:\Users\Czytus\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.startgame.resources
+C:\Users\Czytus\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\Czytus\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Czytus\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.exe
+C:\Users\Czytus\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.pdb
+C:\Users\Czytus\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.koniec_gry.resources
+C:\Users\Mary\Desktop\Quiz — kopia\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Mary\Desktop\Quiz — kopia\Quiz\bin\Debug\Quiz.exe
+C:\Users\Mary\Desktop\Quiz — kopia\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Mary\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+C:\Users\Mary\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Users\Mary\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.koniec_gry.resources
+C:\Users\Mary\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\Mary\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.QUIZ.resources
+C:\Users\Mary\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.startgame.resources
+C:\Users\Mary\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\Mary\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Mary\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.exe
+C:\Users\Mary\Desktop\Quiz — kopia\Quiz\obj\Debug\Quiz.pdb
+C:\Users\Czytus\Desktop\Quiz — dział\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Czytus\Desktop\Quiz — dział\Quiz\bin\Debug\Quiz.exe
+C:\Users\Czytus\Desktop\Quiz — dział\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Czytus\Desktop\Quiz — dział\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+C:\Users\Czytus\Desktop\Quiz — dział\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Users\Czytus\Desktop\Quiz — dział\Quiz\obj\Debug\Quiz.koniec_gry.resources
+C:\Users\Czytus\Desktop\Quiz — dział\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\Czytus\Desktop\Quiz — dział\Quiz\obj\Debug\Quiz.QUIZ.resources
+C:\Users\Czytus\Desktop\Quiz — dział\Quiz\obj\Debug\Quiz.startgame.resources
+C:\Users\Czytus\Desktop\Quiz — dział\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\Czytus\Desktop\Quiz — dział\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Czytus\Desktop\Quiz — dział\Quiz\obj\Debug\Quiz.exe
+C:\Users\Czytus\Desktop\Quiz — dział\Quiz\obj\Debug\Quiz.pdb
+C:\Users\2\Downloads\Quiz — dział\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\2\Downloads\Quiz — dział\Quiz\bin\Debug\Quiz.exe
+C:\Users\2\Downloads\Quiz — dział\Quiz\bin\Debug\Quiz.pdb
+C:\Users\2\Downloads\Quiz — dział\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+C:\Users\2\Downloads\Quiz — dział\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Users\2\Downloads\Quiz — dział\Quiz\obj\Debug\Quiz.koniec_gry.resources
+C:\Users\2\Downloads\Quiz — dział\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\2\Downloads\Quiz — dział\Quiz\obj\Debug\Quiz.QUIZ.resources
+C:\Users\2\Downloads\Quiz — dział\Quiz\obj\Debug\Quiz.startgame.resources
+C:\Users\2\Downloads\Quiz — dział\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\2\Downloads\Quiz — dział\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\2\Downloads\Quiz — dział\Quiz\obj\Debug\Quiz.exe
+C:\Users\2\Downloads\Quiz — dział\Quiz\obj\Debug\Quiz.pdb
